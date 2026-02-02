@@ -1,9 +1,6 @@
 @import "tailwindcss";
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Space+Mono:wght@400;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap');
 
-/* ═══════════════════════════════════════════════════════════
-   THEME CONFIGURATION - All custom colors defined here
-   ═══════════════════════════════════════════════════════════ */
 @theme {
   --color-void: #030303;
   --color-carbon: #0a0a0a;
